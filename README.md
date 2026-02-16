@@ -12,14 +12,15 @@ SQL developer
 Oracle Enterprise Manager (OEM)
 
 ## Explanation of each task
-### Task1 :PDB creation:
+### Task1 :PDB creation
 > create pluggable database ax_pdb_28768
 
 > admin user pdbadmin identified by axel
 
 > file_name_convert=('c:\ORACLE21c\ORADATA\ORCL\DATAFILE\', 'c:\ORACLE21c\ORADATA\ORCL\DATAFILE\ax_pdb_28768');
+### Task2 :Create and delete pdb
 
 
 [repository Link](https://github.com/mugabo-imena-axel/oracle_pdb_ass_II_-28768-_-Axel-/edit/main/README.md)
 
-*PDB Name Created*
+*PDB Name Created: ax_pdb_28768*
