@@ -19,6 +19,18 @@ Oracle Enterprise Manager (OEM)
 
 > file_name_convert=('c:\ORACLE21c\ORADATA\ORCL\DATAFILE\', 'c:\ORACLE21c\ORADATA\ORCL\DATAFILE\ax_pdb_28768');
 ### Task2 :Create and delete pdb
+### Task3: Oracle Enterprise Manager(OEM)
+Successfully configured and accessed Oracle Enterprise Manager.
+
+The OEM dashboard reflects:
+
+>My Oracle environment
+
+>The created PDB
+
+>My configured user
+
+>Database instance status
 
 
 [repository Link](https://github.com/mugabo-imena-axel/oracle_pdb_ass_II_-28768-_-Axel-/edit/main/README.md)
