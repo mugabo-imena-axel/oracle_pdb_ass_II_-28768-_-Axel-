@@ -41,6 +41,11 @@ The OEM dashboard reflects:
 
 >Database instance status
 
+## Integrity Statement
+I confirm that this assignment was completed individually.
+All commands were executed and documented by me.
+No screenshots, repositories, or solutions were copied from other students or external sources.
+
 
 [repository Link](https://github.com/mugabo-imena-axel/oracle_pdb_ass_II_-28768-_-Axel-)
 
