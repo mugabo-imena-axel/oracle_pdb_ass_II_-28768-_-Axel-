@@ -42,7 +42,7 @@ The OEM dashboard reflects:
 >Database instance status
 
 
-[repository Link](https://github.com/mugabo-imena-axel/oracle_pdb_ass_II_-28768-_-Axel-/edit/main/README.md)
+[repository Link](https://github.com/mugabo-imena-axel/oracle_pdb_ass_II_-28768-_-Axel-)
 
 *PDB Name Created: ax_pdb_28768*
 
